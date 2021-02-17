@@ -1,4 +1,4 @@
-# ENCRYPT BERLAPIS BY RANN
+# ENCRYPT BERLAPIS BY RANN.
 # Copyright © 2020 RannStudio. All Rights Reserved
 
 import marshal
