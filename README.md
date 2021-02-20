@@ -12,4 +12,4 @@ python Launcher.py
 ```
 
 #### Buy Membership
-Contact [admin](https://api.whatsapp.com/send/?phone=6289510827898&text=Buy%20membership%20ranntools "Whatsapp") if you want to buy membership
+Contact [admin](https://api.whatsapp.com/send/?phone=6289510827898&text=Buy%20membership%20ranntools "Whatsapp"){:target="_blank"} if you want to buy membership
