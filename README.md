@@ -2,12 +2,8 @@
 #### Copyright &copy; 2020 RannStudio. All Rights Reserved
 [Support Us!](https://saweria.co/rannX "Donate")
 
-## Install
+## How to run?
 ```
 pip install -r requirements.txt
-```
-
-## Run
-```
 python Launcher.py
 ```
