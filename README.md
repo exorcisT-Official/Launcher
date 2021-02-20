@@ -3,4 +3,6 @@
 ## Install
 ```pip install -r requirements.txt```
 
+
+[Donate](https://saweria.co/rannX "Support Us!")
 #### Copyright &copy; 2020 RannStudio. All Rights Reserved
