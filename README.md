@@ -1,10 +1,10 @@
 # Rann Tools v.1.7.4 launcher [ PRE-ALPHA ]
 **Copyright &copy; 2021 RannStudio. All Rights Reserved**
 
-#### Dukung kami :
+**Dukung kami :**\
 Donate : [Saweria](https://saweria.co/rannX "Donate")
 
-#### Cara menjalankan program :
+## Cara menjalankan program :
 ```
 pip install -r requirements.txt
 python Launcher.py
