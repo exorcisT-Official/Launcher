@@ -3,4 +3,4 @@
 ## Install
 pip install -r requirements.txt
 
-##Copyright &copy; 2020 RannStudio. All Rights Reserved
+### Copyright &copy; 2020 RannStudio. All Rights Reserved
