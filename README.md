@@ -1,6 +1,6 @@
 # Rann Tools v.1.7.4 launcher [ PRE-ALPHA ]
-### Copyright &copy; 2020 RannStudio. All Rights Reserved
-#### Support Us :
+**Copyright &copy; 2020 RannStudio. All Rights Reserved**
+**Support Us :**
 Donate : [Saweria](https://saweria.co/rannX "Donate")\
 Follow :[Instagram](https://instagram.com/fikran2906 "Follow")
 
