@@ -2,7 +2,7 @@
 **Copyright &copy; 2020 RannStudio. All Rights Reserved**\
 **Support Us :**\
 Donate : [Saweria](https://saweria.co/rannX "Donate")\
-Follow %nbsp;: [Instagram](https://instagram.com/fikran2906 "Follow")
+Follow&nbsp; : [Instagram](https://instagram.com/fikran2906 "Follow")
 
 ## How to run?
 ```
