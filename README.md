@@ -2,7 +2,7 @@
 **Copyright &copy; 2021 RannStudio. All Rights Reserved**
 
 **Dukung kami :**\
-Donate : [Saweria](https://saweria.co/rannX "Donate")
+Donasi : [Saweria](https://saweria.co/rannX "Donasi")
 
 ## Cara menjalankan program :
 ```
