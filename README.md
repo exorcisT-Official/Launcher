@@ -1,17 +1,16 @@
 # Rann Tools v.1.7.4 launcher [ PRE-ALPHA ]
 **Copyright &copy; 2021 RannStudio. All Rights Reserved**
 
-#### Support Us :
-Donate : [Saweria](https://saweria.co/rannX "Donate")\
-Follow &nbsp;: [Instagram](https://instagram.com/fikran2906 "Follow")
+#### Dukung kami :
+Donate : [Saweria](https://saweria.co/rannX "Donate")
 
-#### How to run?
+#### Cara menjalankan program :
 ```
 pip install -r requirements.txt
 python Launcher.py
 ```
 
 <!--
-#### Buy Membership
-Contact [admin](https://api.whatsapp.com/send/?phone=6289510827898&text=Buy%20membership%20ranntools "Whatsapp") if you want to buy membership.
+#### Beli Membership
+Hubungi [admin](https://api.whatsapp.com/send/?phone=6289510827898&text=Buy%20membership%20ranntools "Whatsapp") jika kamu ingin membeli membership.
 -->
