@@ -11,6 +11,7 @@ pip install -r requirements.txt
 python Launcher.py
 ```
 
+<!--
 #### Buy Membership
-Contact [admin](https://api.whatsapp.com/send/?phone=6289510827898&text=Buy%20membership%20ranntools "Whatsapp") if you want to buy membership
-Contact <a href="https://api.whatsapp.com/send/?phone=6289510827898&text=Buy%20membership%20ranntools" target="_blank">admin</a> if you want to buy membership
+Contact [admin](https://api.whatsapp.com/send/?phone=6289510827898&text=Buy%20membership%20ranntools "Whatsapp") if you want to buy membership.
+-->
