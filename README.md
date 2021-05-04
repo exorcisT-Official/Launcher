@@ -5,6 +5,7 @@
 
 ## Cara menjalankan program :
 ```
+pip install --upgrade pip
 pip install -r requirements.txt
 python Launcher.py
 ```
