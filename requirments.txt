@@ -1,4 +1,4 @@
-requests
-pybase64
-pillow
-mysql-connector-python
+requests >= 2.25.1
+pybase64 >= 1.1.4
+pillow >= 8.1.0
+pandas >= 1.2.4
